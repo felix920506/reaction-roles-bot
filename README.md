@@ -16,10 +16,13 @@
 ## commands 
 
 - /reactionroles add <emoji> <role>
+
     Adds a reaction role to your previous message in this channel
 
 - /reactionroles remove <message id> <emoji>
+
     Removes the reaction role from message with the specified emoji
 
 - /reactionroles clear <message id>
+
     Removes all reaction roles from the specified message
